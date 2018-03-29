@@ -28,4 +28,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## release  v1.0.0更新如下
 ###@zhangkk93
-  - 配置了环境，引用了stylus
+  - 配置了环境，引用了stylus###
+##release v2.0.0 更新如下
+###@zhangkk93
+  - 完成首页
